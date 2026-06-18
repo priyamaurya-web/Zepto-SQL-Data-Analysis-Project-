@@ -62,8 +62,11 @@ This project demonstrates that SQL alone — without external BI or visualizatio
 ## File Structure
 
 `-- zepto-sql analysis.pdf
+
 ---zepto_v1.csv   # Dataset 
+
 ├── zepto_sql_analysis.sql # All SQL queries: table setup, cleaning, and analysis
+
 └── README.md                # Project documentation
 ```
 
